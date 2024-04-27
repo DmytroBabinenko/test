@@ -29,3 +29,54 @@
 // console.log(getTime (450));
 // console.log(getTime (1441));
 
+// let value;
+// console.log('1', value)
+// value = 1;
+// console.log('2', value)
+// value = 'hello';
+// console.log('3', value)
+
+
+// function foo(){
+    
+    
+//     function boo(){
+//         let a = 10;
+//         console.log('boo', a)
+//         return a
+//     }
+//     boo()
+//     console.log('foo', a)
+// }
+// foo()
+// console.log('global', a)
+
+// (() => {
+//     console.log('hello')
+// })();
+
+// function foo(){
+//     var a = 10;
+// }
+// foo()
+// console.log(a)
+
+// const value = 1;
+// const value2 = 2.5;
+// const value3 = NaN;
+
+// //string
+
+// const str = `${value}`;
+// const str1 = 'some text "Say" ';
+// const str2 = "${value}";
+
+
+// const value = '26.45a45';
+// console.log(Number.parseFloat(value))
+
+
+
+
+
+
